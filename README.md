@@ -4,6 +4,6 @@ There is no way in hell I could come up with this data structure without looking
 
 ## Resources
 
-- [https://en.wikipedia.org/wiki/HyperLogLog]
-- [https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf]
-- [https://github.com/DylanMeeus/MediumCode/blob/master/hyperloglog/main.go]
+- https://en.wikipedia.org/wiki/HyperLogLog
+- https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf
+- https://github.com/DylanMeeus/MediumCode/blob/master/hyperloglog/main.go
